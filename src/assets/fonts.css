@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Khmer OS Muol';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Khmer OS Muol Light'), local('KhmerOSMuollight'),
+         url(https://fonts.gstatic.com/s/khmerosmuol/v12/vGqsC9BBpBwM8L3t_cZxLxtn.ttf) format('truetype');
+  }
+  
+
+  @font-face {
+    font-family: 'Khmer OS Battambang';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Khmer OS Battambang'), local('KhmerOSBattambang'),
+         url(https://fonts.gstatic.com/s/khmerosbattambang/v14/57__5CxoHlIP_Yo.php.woff2) format('woff2'),
+         url(https://fonts.gstatic.com/s/khmerosbattambang/v14/57__5CxoHlIP_Yo.php.woff) format('woff');
+  }
+  
