@@ -4,7 +4,7 @@
 
    <template>
           <div class="flex flex-col justify-center items-center">
-               <h1 class="text-center pt-12">សេចក្តីប្រកាសព័ត៌មាន</h1>
+               <h1 class="text-center pt-12">សេចក្តីប្រកាសព័ត៌មាន1234</h1>
                <img src="/public/images/content/mocspace_1719388983279 1.png" alt="Image" class="w-[1780px] h-[877px] object-cover object-center pt-12 pb-5 rounded-sm">
           </div>
           <div>
